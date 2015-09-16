@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿難陀目佉尼呵離陀尼經
+#+DATE: 2015-08-30 20:27:57.244153
+#+PROPERTY: JUAN 0
